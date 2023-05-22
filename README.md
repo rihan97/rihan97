@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rihan97&label=Profile%20views&color=0e75b6&style=flat" alt="rihan97" /> </p>
 
-- 🌱 I’m currently learning [Python Projects](https://github.com/rihan97/Python-Projects)
+- 🌱 I’m currently learning [Python](https://github.com/rihan97/Python-Projects)
 
-- 👨‍💻 You can learn Terraform Basics on [Terraform Basics](https://github.com/rihan97/Terraform-Basics-05)
+- 👨‍💻 You can learn Terraform Basics at [Terraform](https://github.com/rihan97/Terraform-Basics-05)
 
 - ✍️ An interesting project I did [IoT Remote Home Automation](https://github.com/rihan97/IoT-Remote-Home-Automation)
 
