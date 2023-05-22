@@ -9,13 +9,13 @@
 
 - ✍️ An interesting project I did [IoT Remote Home Automation](https://github.com/rihan97/IoT-Remote-Home-Automation)
 
-- 💪 You can find my projects at **https://github.com/rihan97?tab=repositories**
+- 💪 All of my projects are available at **https://github.com/rihan97?tab=repositories**
 
 - 📫 How to reach me **r.alam@live.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rayhan-alam-2441a7173/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[[https://www.linkedin.com/in/rayhan-alam-2441a7173/](https://www.linkedin.com/in/rayhan-alam-2441a7173/)](https://www.linkedin.com/in/rayhan-alam-2441a7173/)" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rayhan-alam-2441a7173/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rayhan-alam-2441a7173/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
