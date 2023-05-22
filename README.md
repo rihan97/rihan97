@@ -7,7 +7,7 @@
 
 - 👨‍💻 You can learn Terraform Basics at [Terraform](https://github.com/rihan97/Terraform-Basics-05)
 
-- ✍️ An interesting project I did [IoT Remote Home Automation](https://github.com/rihan97/IoT-Remote-Home-Automation)
+- ✍️ An interesting project I did [Remotely Control and Analysis of Home Automation Devices using IoT](https://github.com/rihan97/IoT-Remote-Home-Automation)
 
 - 💪 All of my projects are available at **https://github.com/rihan97?tab=repositories**
 
