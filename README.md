@@ -9,7 +9,7 @@
 
 - ✍️ An interesting project I did [IoT Remote Home Automation](https://github.com/rihan97/IoT-Remote-Home-Automation)
 
-- 💪 All of my projects are available at **https://github.com/rihan97?tab=repositories**
+- 💪 You can find my projects at **https://github.com/rihan97?tab=repositories**
 
 - 📫 How to reach me **r.alam@live.com**
 
