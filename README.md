@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rihan97&label=Profile%20views&color=0e75b6&style=flat" alt="rihan97" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rihan97" alt="rihan97" /></a> </p>
-
 - 🌱 I’m currently learning [Python Projects](https://github.com/rihan97/Python-Projects)
 
 - 👨‍💻 You can learn Terraform Basics on [Terraform Basics](https://github.com/rihan97/Terraform-Basics-05)
